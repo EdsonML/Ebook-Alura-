@@ -4,8 +4,12 @@
 
 body{
     background-color: var(--cor-de-fundo);
+     color:black; var(--font)
+
 }
- 
+ header 
 h1{
-    background-color: black;
+    background-color: -moz-font-feature-settings: ;;
+
+    
 }
